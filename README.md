@@ -1,2 +1,2 @@
-Repository untuk latihan membuat branch baru
-Github seru
+# Repository untuk latihan membuat branch baru
+Github asik bos
